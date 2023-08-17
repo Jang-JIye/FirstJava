@@ -2,7 +2,7 @@ package week02.collection;
 
 import java.util.ArrayList;
 
-public class Coljava {
+public class Col01 {
     public static void main(String[] args) {
         // List
         // 순서가 있는 데이터의 집합 => Array

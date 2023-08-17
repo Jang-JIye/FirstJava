@@ -1,11 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5c758da-083d-4d14-bb4e-975f167bc88f" name="Changes" comment="" />
+    <list default="true" id="a5c758da-083d-4d14-bb4e-975f167bc88f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week01/Recipes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week01/조건" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/array/Arr01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/array/Arr02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/array/Arr04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/array/Arr05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/array/Arr06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/array/Arr07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/array/Arr08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/collection/Col01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/collection/Col02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/collection/Col03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/collection/Col04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/collection/Col05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/collection/Col06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/operator/W01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/operator/W02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/operator/W03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/operator/W04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/operator/W05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/operator/W08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/operator/W09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/operator/W10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/operator/W11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/operator/W12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/operator/W13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/operator/W14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/operator/W15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/operator/W16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/operator/W17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week02/operator/정리.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week03/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week03/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week03/Handle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week03/Tire.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2TltnaQsi2PndrWOxfCRDvy301a" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,14 +71,103 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/a/Desktop/sparta99/java_1week/baseball&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\a\Desktop\sparta99\java_1week\FirstJava\src\week02\operator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Col03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week02.collection.Col03" />
+      <module name="FirstJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week02.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Col04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week02.collection.Col04" />
+      <module name="FirstJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week02.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Col05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week02.collection.Col05" />
+      <module name="FirstJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week02.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Col06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week02.collection.Col06" />
+      <module name="FirstJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week02.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week03.Main" />
+      <module name="FirstJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Col06" />
+        <item itemvalue="Application.Col05" />
+        <item itemvalue="Application.Col04" />
+        <item itemvalue="Application.Col03" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,7 +176,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691629664325</updated>
+      <workItem from="1691629666235" duration="10779000" />
+      <workItem from="1691985371763" duration="9880000" />
+      <workItem from="1691997795771" duration="1301000" />
+      <workItem from="1692000212535" duration="1559000" />
+      <workItem from="1692059323797" duration="9628000" />
+      <workItem from="1692144615357" duration="29943000" />
+      <workItem from="1692230841126" duration="315000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

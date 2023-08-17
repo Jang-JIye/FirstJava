@@ -2,7 +2,7 @@ package week01;
 
 import java.util.Scanner;
 
-public class Recipes {
+public class Recipes01 {
     public static void main(String[] args) {
 //     **요리 레시피 메모장 만들기**
 //        * 입력값
